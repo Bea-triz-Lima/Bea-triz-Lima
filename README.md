@@ -1,13 +1,10 @@
-
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
 ## Hi there 👋
 
 ## My name is Beatriz and my nickname is Pud!
 
 Here are some ideas to get you started:
 
-            <i class="devicon-javascript-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
