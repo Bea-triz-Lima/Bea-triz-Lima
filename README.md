@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Bea-triz-Lima/Bea-triz-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"!
 
 Here are some ideas to get you started:
 
