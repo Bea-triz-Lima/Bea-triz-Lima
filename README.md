@@ -1,6 +1,5 @@
-<p style="text-align: center;">
-<h1>about me</h1>
-Im a novice programmer always seeking new projects not only for personal improvement but also for the fun of it, i love challenges and expressing myself creatively
+<h1 style="text aling: center">about me</h1>
+<p>Im a novice programmer always seeking new projects not only for personal improvement but also for the fun of it, i love challenges and expressing myself creatively</p>
 
 <h3>Socials</h3>
 # Steam: <a href="https://steamcommunity.com/profiles/76561198383456545"> <img width="20" height="20" src="https://img.icons8.com/plasticine/100/steam.png" alt="steam"/> <br>
