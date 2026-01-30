@@ -1,9 +1,14 @@
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 ## Hi there 👋
 
-## My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"!
+## My name is Beatriz and my nickname is Pud!
 
 Here are some ideas to get you started:
 
+            <i class="devicon-javascript-plain colored"></i>
+          
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
