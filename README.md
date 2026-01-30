@@ -1,7 +1,7 @@
 <h1>about me</h1>
 Im a novice programmer always seeking new projects not only for personal improvement but also for the fun of it, i love challenges and expressing myself creatively
 <h3>Socials</h3>
-#Steam: https://steamcommunity.com/profiles/76561198383456545
+#Steam: <a href="https://steamcommunity.com/profiles/76561198383456545"><img width="100" height="100" src="https://img.icons8.com/plasticine/100/steam.png" alt="steam"/>
 #Discord: https://discord.com/users/853028976583114794
 <h1></h1>
 
