@@ -1,4 +1,4 @@
-<h1 style="text aling: center">about me</h1>
+<h1 style="text aling: center;">about me</h1>
 <p>Im a novice programmer always seeking new projects not only for personal improvement but also for the fun of it, i love challenges and expressing myself creatively</p>
 
 <h3>Socials</h3>
