@@ -14,6 +14,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" heigth="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" heigth="40"/>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Bea-triz-Lima=anuraghazra&show_icons=true&theme=radical)
 </div>   
 
