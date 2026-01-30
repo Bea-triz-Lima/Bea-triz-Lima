@@ -14,6 +14,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" heigth="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" heigth="40"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bea-triz-Lima&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/Bea-triz-Lima">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-triz-Lima&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bea-triz-Lima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+          
 </div>   
 
